@@ -1,8 +1,9 @@
 {
   "/dashboard/page": "app/dashboard/page.js",
+  "/settings/page": "app/settings/page.js",
   "/equipment/page": "app/equipment/page.js",
-  "/preventive/page": "app/preventive/page.js",
   "/tickets/page": "app/tickets/page.js",
-  "/reports/page": "app/reports/page.js",
-  "/settings/page": "app/settings/page.js"
+  "/login/page": "app/login/page.js",
+  "/preventive/page": "app/preventive/page.js",
+  "/reports/page": "app/reports/page.js"
 }
